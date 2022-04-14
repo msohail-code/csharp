@@ -1,0 +1,7 @@
+C:\Users\Sohail\AppData\Local\Temporary Projects\Mid Programs\bin\Debug\Mid Programs.exe
+C:\Users\Sohail\AppData\Local\Temporary Projects\Mid Programs\bin\Debug\Mid Programs.pdb
+C:\Users\Sohail\AppData\Local\Temporary Projects\Mid Programs\obj\x86\Debug\Mid_Programs.Form1.resources
+C:\Users\Sohail\AppData\Local\Temporary Projects\Mid Programs\obj\x86\Debug\Mid_Programs.Properties.Resources.resources
+C:\Users\Sohail\AppData\Local\Temporary Projects\Mid Programs\obj\x86\Debug\Mid Programs.csproj.GenerateResource.Cache
+C:\Users\Sohail\AppData\Local\Temporary Projects\Mid Programs\obj\x86\Debug\Mid Programs.exe
+C:\Users\Sohail\AppData\Local\Temporary Projects\Mid Programs\obj\x86\Debug\Mid Programs.pdb
